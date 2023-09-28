@@ -2,7 +2,6 @@
   
 ## <div align="center">A junior full-stack developer from Romania 💻</div>  
 
-- 💡 I’m currently improve my back-end and front-end skills, by learning *Java* and *React*  
 - 📧 How to reach me naidinmihaela76@gmail.com  
 <br/>  
 
